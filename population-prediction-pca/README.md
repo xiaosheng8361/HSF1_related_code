@@ -151,9 +151,9 @@ output_dir/
 If you use this tool in your research, please cite:
 
 ```
-[Your Paper Citation Here]
+To be continued
 ```
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub.
+For questions or issues, please open an issue on GitHub or via email(xiaosheng@zju.edu.cn).
