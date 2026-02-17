@@ -156,4 +156,4 @@ To be continued
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or via email(xiaosheng@zju.edu.cn).
+For questions or issues, please open an issue on GitHub or via email (xiaosheng@zju.edu.cn).
