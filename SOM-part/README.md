@@ -1,4 +1,4 @@
-# HSF1 Tandem Repeat Analysis
+# *HSF1* Tandem Repeat Analysis
 
 This repository contains scripts for analyzing *HSF1* tandem repeat sequences using Self-Organizing Maps (SOM) with configurable k-mer features.
 
