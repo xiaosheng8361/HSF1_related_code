@@ -1,6 +1,6 @@
 # HSF1 Tandem Repeat Analysis
 
-This repository contains scripts for analyzing HSF1 tandem repeat sequences using Self-Organizing Maps (SOM) with configurable k-mer features.
+This repository contains scripts for analyzing *HSF1* tandem repeat sequences using Self-Organizing Maps (SOM) with configurable k-mer features.
 
 ### SOM Classification
 **`pure_som_classifier_v3_kmer_en.py`** - SOM-based sequence clustering with configurable k-mer length
